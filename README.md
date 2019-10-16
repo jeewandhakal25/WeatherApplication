@@ -1,4 +1,4 @@
-# weather_application
+# Weather Application
 
 ## Project setup
 ```
@@ -14,11 +14,10 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
+ 
+### Tools Used
+<li>Programming Language: Vue.js</li>
+<li>Frontend Framework: Vuetify</li>
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
